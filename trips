@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "title": "Trip 1",
+    "photos": ["photo1.jpg", "photo2.jpg"],
+    "description": "Description for Trip 1",
+    "date": "2023-01-01T12:00:00Z",
+    "location": "Location 1"
+  },
+  {
+    "id": "2",
+    "title": "Trip 2",
+    "photos": ["photo3.jpg", "photo4.jpg"],
+    "description": "Description for Trip 2",
+    "date": "2023-02-01T12:00:00Z",
+    "location": "Location 2"
+  },
+ 
